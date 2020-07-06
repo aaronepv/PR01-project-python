@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of Your Project
-*[Your Name]*
+*Aaron Elias*
 
-*[Your Cohort, Campus & Date]*
+*ih-dapt-bcn-jun20*
 
 ## Content
 - [Project Description](#project-description)
@@ -31,4 +31,4 @@ Include links to your repository, slides and trello/kanban board. Feel free to i
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/YZMse5m8/project-1-strong-random-password-generator)  
